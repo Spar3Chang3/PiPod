@@ -66,6 +66,7 @@
   .selection-box {
     display: flex;
     flex-direction: column;
+    height: 50vh;
     width: 100vw;
   }
 
